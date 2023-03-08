@@ -1,2 +1,14 @@
-header {background-color: blue;
-color:black;}
+header {background-color: rgb(165, 24, 24); 
+color:black
+display: flex;
+justify-content:space-around ;}
+.cabecalho-imagem{width:20%;}
+li {
+    display: inline-block;
+}
+h1 {
+    margin: 100px;
+    padding: 80px  0;
+}
+
+     
