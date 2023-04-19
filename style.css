@@ -4,8 +4,8 @@
 }
 body{ font-family:arial,helvetica,sans-serif;}
 
-.cabecalho {background-color: rgb(226, 55,43);
-color:rgb(0, 0, 0)
+.cabecalho {background-color: rgb(187, 24, 12);
+color:rgb(6, 77, 23)
 display; flex;
 justify-content: space-aroud:
 padding:24px 0:}
@@ -22,13 +22,18 @@ font-size: 48px;}
 li
 {display:inline-block
 margin:0 100px;
-padding: 24px;0
+padding: 24px;0Add files via upload
+last week
+style.css
+Add files via upload
+last week
+
 font-size: 24px 0;}
 .escola-imagem {
     width:13%;
  }
 .escola {
-background-image: linearGradient(rgb(226. 55, 43),rgb(0,0,))
+background-image: linearGradient(rgb(226. 55, 43),rgb(29,76,))
 color:white;
 display: flex;
 justify-content:center;
@@ -38,15 +43,9 @@ padding: 24px 0;}
 {width: 50%;}
 .escola-titulo
 {padding: 50px 30px;}
-.aluno-um{
-    whidth: 20%;
-}
-.estudante-titulo
-{
-    tex-align:center;
-    padding: 50px 0;
-    font-size: 30px;
-}
+.estudante-div{
+    text-align: center;}
+
 
 
 
